@@ -1,0 +1,990 @@
+[
+    {
+        "question": "What type of sport is basketball?",
+        "answer": "Basketball is a team sport played on a rectangular court."
+    },
+    {
+        "question": "How many players are on each basketball team?",
+        "answer": "Two teams of five players each try to score by shooting a ball through a hoop elevated 10 feet above the ground."
+    },
+    {
+        "question": "How high is the basketball hoop above the ground?",
+        "answer": "Two teams of five players each try to score by shooting a ball through a hoop elevated 10 feet above the ground."
+    },
+    {
+        "question": "What is the shape of the basketball court?",
+        "answer": "Basketball is a team sport played on a rectangular court."
+    },
+    {
+        "question": "How many hoops are there on a basketball court?",
+        "answer": "The game is played on a court with a hoop at each end."
+    },
+    {
+        "question": "What is the National Basketball Association (NBA)?",
+        "answer": "The National Basketball Association (NBA) is the premier professional basketball league in the world."
+    },
+    {
+        "question": "When was the NBA founded?",
+        "answer": "Founded in 1946, the NBA consists of 30 teams, 29 in the United States and 1 in Canada."
+    },
+    {
+        "question": "How many teams are in the NBA?",
+        "answer": "Founded in 1946, the NBA consists of 30 teams, 29 in the United States and 1 in Canada."
+    },
+    {
+        "question": "How many NBA teams are in the United States and Canada?",
+        "answer": "Founded in 1946, the NBA consists of 30 teams, 29 in the United States and 1 in Canada."
+    },
+    {
+        "question": "When does the NBA regular season run and how many games does each team play?",
+        "answer": "The league's regular season runs from October to April, with each team playing 82 games."
+    },
+    {
+        "question": "Who is widely considered the greatest basketball player of all time?",
+        "answer": "Michael Jordan is widely considered the greatest basketball player of all time."
+    },
+    {
+        "question": "For which team did Michael Jordan play?",
+        "answer": "Playing for the Chicago Bulls, Jordan won six NBA championships and was named Finals MVP in all six series."
+    },
+    {
+        "question": "How many NBA championships did Michael Jordan win?",
+        "answer": "Playing for the Chicago Bulls, Jordan won six NBA championships and was named Finals MVP in all six series."
+    },
+    {
+        "question": "How many times was Michael Jordan named Finals MVP?",
+        "answer": "Playing for the Chicago Bulls, Jordan won six NBA championships and was named Finals MVP in all six series."
+    },
+    {
+        "question": "How many career points did Michael Jordan score?",
+        "answer": "His Airness scored 32,292 career points and won five regular season MVP awards."
+    },
+    {
+        "question": "How many regular season MVP awards did Michael Jordan win?",
+        "answer": "His Airness scored 32,292 career points and won five regular season MVP awards."
+    },
+    {
+        "question": "Who is known as King James?",
+        "answer": "LeBron James, known as King James, is one of the most dominant players in NBA history."
+    },
+    {
+        "question": "How tall is LeBron James?",
+        "answer": "Standing 6 feet 9 inches tall, James has played for the Cleveland Cavaliers, Miami Heat, and Los Angeles Lakers, winning four NBA championships."
+    },
+    {
+        "question": "For which teams has LeBron James played?",
+        "answer": "Standing 6 feet 9 inches tall, James has played for the Cleveland Cavaliers, Miami Heat, and Los Angeles Lakers, winning four NBA championships."
+    },
+    {
+        "question": "How many NBA championships has LeBron James won?",
+        "answer": "Standing 6 feet 9 inches tall, James has played for the Cleveland Cavaliers, Miami Heat, and Los Angeles Lakers, winning four NBA championships."
+    },
+    {
+        "question": "What is LeBron James' scoring record in the NBA?",
+        "answer": "He is the all-time leading scorer in NBA history."
+    },
+    {
+        "question": "What is the distance of the three-point line in the NBA at the top of the key?",
+        "answer": "The three-point line in the NBA is 23 feet 9 inches from the basket at the top of the key and 22 feet in the corners."
+    },
+    {
+        "question": "What is the distance of the three-point line in the NBA in the corners?",
+        "answer": "The three-point line in the NBA is 23 feet 9 inches from the basket at the top of the key and 22 feet in the corners."
+    },
+    {
+        "question": "How many seconds does the shot clock give teams to attempt a shot that hits the rim?",
+        "answer": "The shot clock gives teams 24 seconds to attempt a shot that hits the rim."
+    },
+    {
+        "question": "What are some violations mentioned in the text?",
+        "answer": "Violations include traveling, double dribble, and goaltending."
+    },
+    {
+        "question": "Who holds the record for most MVP awards?",
+        "answer": "Kareem Abdul-Jabbar holds the record for most MVP awards with six."
+    },
+    {
+        "question": "How many MVP awards does Kareem Abdul-Jabbar have?",
+        "answer": "Kareem Abdul-Jabbar holds the record for most MVP awards with six."
+    },
+    {
+        "question": "What was Kareem Abdul-Jabbar's signature shot?",
+        "answer": "His signature skyhook shot was nearly unstoppable."
+    },
+    {
+        "question": "How many career points did Kareem Abdul-Jabbar score?",
+        "answer": "He scored 38,387 career points before LeBron James broke the record in 2023."
+    },
+    {
+        "question": "Who broke Kareem Abdul-Jabbar's career points record and when?",
+        "answer": "He scored 38,387 career points before LeBron James broke the record in 2023."
+    },
+    {
+        "question": "What are the basketball positions mentioned?",
+        "answer": "Basketball positions include point guard, shooting guard, small forward, power forward, and center."
+    },
+    {
+        "question": "What is the role of the point guard in basketball?",
+        "answer": "The point guard is typically the team's best ball handler and passer, responsible for directing the offense."
+    },
+    {
+        "question": "Which NBA franchises are the most successful in history?",
+        "answer": "The Boston Celtics and Los Angeles Lakers are the most successful franchises in NBA history, each winning 17 championships."
+    },
+    {
+        "question": "How many championships have the Boston Celtics and Los Angeles Lakers each won?",
+        "answer": "The Boston Celtics and Los Angeles Lakers are the most successful franchises in NBA history, each winning 17 championships."
+    },
+    {
+        "question": "What defined the NBA in the 1980s?",
+        "answer": "Their rivalry defined the NBA in the 1980s with Magic Johnson leading the Lakers and Larry Bird leading the Celtics."
+    },
+    {
+        "question": "Who led the Los Angeles Lakers during their rivalry in the 1980s?",
+        "answer": "Their rivalry defined the NBA in the 1980s with Magic Johnson leading the Lakers and Larry Bird leading the Celtics."
+    },
+    {
+        "question": "Who led the Boston Celtics during their rivalry in the 1980s?",
+        "answer": "Their rivalry defined the NBA in the 1980s with Magic Johnson leading the Lakers and Larry Bird leading the Celtics."
+    },
+    {
+        "question": "Who set numerous unbreakable records?",
+        "answer": "Wilt Chamberlain set numerous unbreakable records including scoring 100 points in a single game on March 2, 1962."
+    },
+    {
+        "question": "What is the highest number of points scored by Wilt Chamberlain in a single game?",
+        "answer": "Wilt Chamberlain set numerous unbreakable records including scoring 100 points in a single game on March 2, 1962."
+    },
+    {
+        "question": "On what date did Wilt Chamberlain score 100 points in a single game?",
+        "answer": "Wilt Chamberlain set numerous unbreakable records including scoring 100 points in a single game on March 2, 1962."
+    },
+    {
+        "question": "What was Wilt Chamberlain's average points per game during the 1961-1962 season?",
+        "answer": "He also averaged 50.4 points per game during the 1961-1962 season."
+    },
+    {
+        "question": "During which season did Wilt Chamberlain average 50.4 points per game?",
+        "answer": "He also averaged 50.4 points per game during the 1961-1962 season."
+    },
+    {
+        "question": "Who revolutionized basketball with his three-point shooting?",
+        "answer": "Stephen Curry revolutionized basketball with his three-point shooting."
+    },
+    {
+        "question": "Which team does Stephen Curry play for?",
+        "answer": "The Golden State Warriors guard holds the record for most three-pointers made in NBA history and won four championships."
+    },
+    {
+        "question": "What record does Stephen Curry hold?",
+        "answer": "The Golden State Warriors guard holds the record for most three-pointers made in NBA history and won four championships."
+    },
+    {
+        "question": "How many championships has Stephen Curry won?",
+        "answer": "The Golden State Warriors guard holds the record for most three-pointers made in NBA history and won four championships."
+    },
+    {
+        "question": "How far does Stephen Curry's shooting range extend?",
+        "answer": "His shooting range extends well beyond 30 feet."
+    },
+    {
+        "question": "What is the most fundamental play in basketball?",
+        "answer": "The pick and roll is the most fundamental play in basketball."
+    },
+    {
+        "question": "What does the pick and roll involve?",
+        "answer": "It involves a player setting a screen for the ball handler and then rolling toward the basket."
+    },
+    {
+        "question": "How many players are involved in the pick and roll action?",
+        "answer": "This two-man action creates mismatches and open shots."
+    },
+    {
+        "question": "What does the two-man action in the pick and roll create?",
+        "answer": "This two-man action creates mismatches and open shots."
+    },
+    {
+        "question": "What is said about defense in relation to championships?",
+        "answer": "Defense wins championships."
+    },
+    {
+        "question": "What does man-to-man defense require each player to do?",
+        "answer": "Man-to-man defense requires each player to guard a specific opponent."
+    },
+    {
+        "question": "What do players guard in zone defense?",
+        "answer": "Zone defense has players guard areas of the court."
+    },
+    {
+        "question": "What does the full-court press apply?",
+        "answer": "The full-court press applies defensive pressure across the entire court."
+    },
+    {
+        "question": "Who was one of the most dominant centers in NBA history?",
+        "answer": "Shaquille O'Neal was one of the most dominant centers in NBA history."
+    },
+    {
+        "question": "What were Shaquille O'Neal's height and weight?",
+        "answer": "At 7 feet 1 inch and 325 pounds, Shaq overpowered defenders with his size and strength."
+    },
+    {
+        "question": "How did Shaquille O'Neal overpower defenders?",
+        "answer": "At 7 feet 1 inch and 325 pounds, Shaq overpowered defenders with his size and strength."
+    },
+    {
+        "question": "How many championships did Shaquille O'Neal win and with how many teams?",
+        "answer": "He won four championships with three different teams."
+    },
+    {
+        "question": "When was the shot clock introduced?",
+        "answer": "The shot clock was introduced in 1954 to prevent stalling."
+    },
+    {
+        "question": "Why was the shot clock introduced?",
+        "answer": "The shot clock was introduced in 1954 to prevent stalling."
+    },
+    {
+        "question": "What could teams do before the introduction of the shot clock?",
+        "answer": "Before its introduction, teams could hold the ball indefinitely."
+    },
+    {
+        "question": "How long is the shot clock?",
+        "answer": "The 24-second clock forces teams to play faster and score more."
+    },
+    {
+        "question": "What effect does the 24-second clock have on teams?",
+        "answer": "The 24-second clock forces teams to play faster and score more."
+    },
+    {
+        "question": "Who is known as the Black Mamba?",
+        "answer": "Kobe Bryant, the Black Mamba, spent his entire 20-year career with the Los Angeles Lakers."
+    },
+    {
+        "question": "How long was Kobe Bryant's career with the Los Angeles Lakers?",
+        "answer": "Kobe Bryant, the Black Mamba, spent his entire 20-year career with the Los Angeles Lakers."
+    },
+    {
+        "question": "How many championships did Kobe Bryant win?",
+        "answer": "He won five championships and scored 81 points in a single game, the second-highest in NBA history."
+    },
+    {
+        "question": "What is the significance of Kobe Bryant's 81-point game?",
+        "answer": "He won five championships and scored 81 points in a single game, the second-highest in NBA history."
+    },
+    {
+        "question": "What were Kobe Bryant's work ethic and competitive drive described as?",
+        "answer": "His work ethic and competitive drive were legendary."
+    },
+    {
+        "question": "Who governs international basketball?",
+        "answer": "International basketball is governed by FIBA."
+    },
+    {
+        "question": "What sport is featured as a premier sport in the Olympics?",
+        "answer": "The Olympics feature basketball as a premier sport."
+    },
+    {
+        "question": "Which team in 1992 revolutionized international basketball?",
+        "answer": "The USA Dream Team in 1992, featuring Michael Jordan, Magic Johnson, and Larry Bird, revolutionized international basketball."
+    },
+    {
+        "question": "Which players were featured in the USA Dream Team in 1992?",
+        "answer": "The USA Dream Team in 1992, featuring Michael Jordan, Magic Johnson, and Larry Bird, revolutionized international basketball."
+    },
+    {
+        "question": "How many points is a field goal worth?",
+        "answer": "A field goal is worth two points, or three points if shot from beyond the three-point line."
+    },
+    {
+        "question": "How many points is a field goal worth if shot from beyond the three-point line?",
+        "answer": "A field goal is worth two points, or three points if shot from beyond the three-point line."
+    },
+    {
+        "question": "How many points is a free throw worth?",
+        "answer": "Free throws, awarded after certain fouls, are worth one point each."
+    },
+    {
+        "question": "When are free throws awarded?",
+        "answer": "Free throws, awarded after certain fouls, are worth one point each."
+    },
+    {
+        "question": "What is an and-one opportunity?",
+        "answer": "And-one opportunities allow a player to shoot a free throw after making a basket while being fouled."
+    },
+    {
+        "question": "Who led the San Antonio Spurs to five championships?",
+        "answer": "Tim Duncan, the Big Fundamental, led the San Antonio Spurs to five championships."
+    },
+    {
+        "question": "How many championships did Tim Duncan lead the San Antonio Spurs to?",
+        "answer": "Tim Duncan, the Big Fundamental, led the San Antonio Spurs to five championships."
+    },
+    {
+        "question": "What is Tim Duncan known for?",
+        "answer": "Known for his bank shot and defensive prowess, Duncan won three Finals MVP awards."
+    },
+    {
+        "question": "How many Finals MVP awards did Tim Duncan win?",
+        "answer": "Known for his bank shot and defensive prowess, Duncan won three Finals MVP awards."
+    },
+    {
+        "question": "Who is considered the greatest power forward of all time?",
+        "answer": "He is considered the greatest power forward of all time."
+    },
+    {
+        "question": "When does the NBA draft occur?",
+        "answer": "The NBA draft occurs annually in June."
+    },
+    {
+        "question": "Who selects players in the NBA draft?",
+        "answer": "Teams select eligible players, typically from college or international leagues."
+    },
+    {
+        "question": "From where are players typically selected in the NBA draft?",
+        "answer": "Teams select eligible players, typically from college or international leagues."
+    },
+    {
+        "question": "What determines the order for non-playoff teams in the NBA draft?",
+        "answer": "The draft lottery determines the order for non-playoff teams, with the worst teams having better odds at the top pick."
+    },
+    {
+        "question": "Which teams have better odds at the top pick in the NBA draft lottery?",
+        "answer": "The draft lottery determines the order for non-playoff teams, with the worst teams having better odds at the top pick."
+    },
+    {
+        "question": "What was the early era of basketball defined by?",
+        "answer": "The early \"dead-ball\" era was defined by set shots and deliberate play."
+    },
+    {
+        "question": "What style of play did the 1980s and 1990s emphasize in basketball?",
+        "answer": "The 1980s and 1990s emphasized isolation play and dominant post scorers."
+    },
+    {
+        "question": "What basketball revolution did the 2010s usher in?",
+        "answer": "The 2010s ushered in the \"pace and space\" revolution, prioritizing three-point shooting, floor spacing, and positionless basketball."
+    },
+    {
+        "question": "What approach values efficiency and has led to a decline in the traditional back-to-the-basket center's role?",
+        "answer": "This analytics-driven approach values efficiency, leading to a steep decline in the traditional back-to-the-basket center's role."
+    },
+    {
+        "question": "What strategic shifts has basketball undergone?",
+        "answer": "Basketball has undergone dramatic strategic shifts."
+    },
+    {
+        "question": "When was the Women's National Basketball Association (WNBA) founded?",
+        "answer": "The Women's National Basketball Association (WNBA), founded in 1996, has grown into the premier women's professional sports league globally."
+    },
+    {
+        "question": "Who are some of the legends that laid the foundation of the WNBA?",
+        "answer": "Legends like Lisa Leslie, Sheryl Swoopes, and Cynthia Cooper laid the foundation."
+    },
+    {
+        "question": "Who is the WNBA's all-time leading scorer mentioned in the text?",
+        "answer": "Today, stars like Diana Taurasi (the WNBA's all-time leading scorer), Sue Bird (a masterful point guard), and Breanna Stewart (a versatile MVP) carry the torch."
+    },
+    {
+        "question": "Which players are highlighted as current stars carrying the torch in the WNBA?",
+        "answer": "Today, stars like Diana Taurasi (the WNBA's all-time leading scorer), Sue Bird (a masterful point guard), and Breanna Stewart (a versatile MVP) carry the torch."
+    },
+    {
+        "question": "Which college basketball coaches are mentioned as having profoundly influenced the college game?",
+        "answer": "The college game is profoundly influenced by coaches like Geno Auriemma of UConn and the late Pat Summitt of Tennessee, who built dynasties."
+    },
+    {
+        "question": "What has modern basketball evaluation moved beyond?",
+        "answer": "Modern basketball evaluation has moved far beyond points, rebounds, and assists."
+    },
+    {
+        "question": "What are some advanced metrics used in basketball evaluation?",
+        "answer": "Advanced metrics like Player Efficiency Rating (PER), True Shooting Percentage (TS%), Box Plus/Minus (BPM), and Win Shares attempt to quantify a player's overall impact on winning."
+    },
+    {
+        "question": "What do advanced metrics attempt to quantify in basketball?",
+        "answer": "Advanced metrics like Player Efficiency Rating (PER), True Shooting Percentage (TS%), Box Plus/Minus (BPM), and Win Shares attempt to quantify a player's overall impact on winning."
+    },
+    {
+        "question": "What tracking data is now measured in basketball?",
+        "answer": "Tracking data now measures speed, distance covered, shot arc, and defensive contests, providing teams with a granular view of performance."
+    },
+    {
+        "question": "What does tracking data provide teams with?",
+        "answer": "Tracking data now measures speed, distance covered, shot arc, and defensive contests, providing teams with a granular view of performance."
+    },
+    {
+        "question": "What is said about basketball's international footprint?",
+        "answer": "Basketball's international footprint is immense."
+    },
+    {
+        "question": "Who were some pioneers of the NBA's influx of global talent?",
+        "answer": "The NBA's influx of global talent began in earnest with pioneers like Hakeem Olajuwon (Nigeria) and Dra\u017een Petrovi\u0107 (Croatia)."
+    },
+    {
+        "question": "Which MVP candidates are mentioned as international stars today?",
+        "answer": "Today, it's commonplace for MVP candidates like Nikola Joki\u0107 (Serbia), Giannis Antetokounmpo (Greece), and Joel Embiid (Cameroon) to be international stars."
+    },
+    {
+        "question": "What tournaments feature fierce competition in international basketball?",
+        "answer": "The FIBA World Cup and Olympic tournaments feature fierce competition, with nations like Spain, Argentina, and France consistently challenging American dominance."
+    },
+    {
+        "question": "Which nations consistently challenge American dominance in basketball tournaments?",
+        "answer": "The FIBA World Cup and Olympic tournaments feature fierce competition, with nations like Spain, Argentina, and France consistently challenging American dominance."
+    },
+    {
+        "question": "How many referees are on the NBA officiating crew?",
+        "answer": "NBA officials manage the game with a crew of three referees, using instant replay for certain reviewable events (out-of-bounds calls, flagrant fouls, last-second shots)."
+    },
+    {
+        "question": "What types of events are reviewable using instant replay in the NBA?",
+        "answer": "NBA officials manage the game with a crew of three referees, using instant replay for certain reviewable events (out-of-bounds calls, flagrant fouls, last-second shots)."
+    },
+    {
+        "question": "What is the purpose of the Coach's Challenge in the NBA?",
+        "answer": "The introduction of the Coach's Challenge allows teams to challenge one call per game."
+    },
+    {
+        "question": "How many calls can a team challenge per game using the Coach's Challenge?",
+        "answer": "The introduction of the Coach's Challenge allows teams to challenge one call per game."
+    },
+    {
+        "question": "What are the common debates among fans and analysts regarding NBA officiating?",
+        "answer": "Debates over the consistency of foul calls, particularly on perimeter jumpshots and block/charge plays, are perpetual among fans and analysts."
+    },
+    {
+        "question": "What is basketball's influence beyond the hardwood?",
+        "answer": "Basketball's influence extends far beyond the hardwood."
+    },
+    {
+        "question": "What helped shape the NBA's identity?",
+        "answer": "The NBA's symbiotic relationship with hip-hop culture helped shape the league's identity."
+    },
+    {
+        "question": "What sparked a global sneaker revolution with the Air Jordan line?",
+        "answer": "The arrival of Michael Jordan sparked a global sneaker revolution with the Air Jordan line, turning athletic shoes into high-fashion collectibles."
+    },
+    {
+        "question": "Which players are trendsetters with tunnel walk outfits becoming a pre-game runway show?",
+        "answer": "Today, players like Russell Westbrook and Shai Gilgeous-Alexander are trendsetters, with tunnel walk outfits becoming a pre-game runway show."
+    },
+    {
+        "question": "Who pioneered fast-break basketball?",
+        "answer": "Red Auerbach (Celtics) pioneered fast-break basketball."
+    },
+    {
+        "question": "Which offense did Phil Jackson use to anchor Bulls and Lakers dynasties?",
+        "answer": "Phil Jackson's triangle offense anchored Bulls and Lakers dynasties."
+    },
+    {
+        "question": "What does Gregg Popovich's 'Spurs Way' emphasize?",
+        "answer": "Gregg Popovich's \"Spurs Way\" emphasizes ball movement, selflessness, and defensive discipline."
+    },
+    {
+        "question": "Which coaches are celebrated for their innovative offensive sets and adaptive game-planning in the modern era?",
+        "answer": "In the modern era, coaches like Steve Kerr (Warriors) and Erik Spoelstra (Heat) are celebrated for their innovative offensive sets and adaptive game-planning."
+    },
+    {
+        "question": "How are legendary coaches defined according to the text?",
+        "answer": "Legendary coaches are defined by their philosophies."
+    },
+    {
+        "question": "What is the primary route to the NBA mentioned in the text?",
+        "answer": "While the NCAA remains a primary route, elite prospects now have alternatives: the NBA G League Ignite team, professional leagues overseas, or Overtime Elite."
+    },
+    {
+        "question": "What are the alternatives to the NCAA for elite prospects on the path to the NBA?",
+        "answer": "While the NCAA remains a primary route, elite prospects now have alternatives: the NBA G League Ignite team, professional leagues overseas, or Overtime Elite."
+    },
+    {
+        "question": "What do the NBA G League Ignite team, professional leagues overseas, and Overtime Elite offer to prospects?",
+        "answer": "These programs offer professional training and compensation, challenging the traditional one-and-done college model."
+    },
+    {
+        "question": "What traditional model is being challenged by new developmental programs?",
+        "answer": "These programs offer professional training and compensation, challenging the traditional one-and-done college model."
+    },
+    {
+        "question": "How has the path to the NBA changed according to the text?",
+        "answer": "The path to the NBA has diversified."
+    },
+    {
+        "question": "What is described as basketball's most visceral offensive weapon?",
+        "answer": "The dunk is basketball's most visceral offensive weapon, a blend of power, artistry, and intimidation."
+    },
+    {
+        "question": "Which players are mentioned in relation to iconic dunks?",
+        "answer": "From Julius Erving's baseline swoops to Vince Carter's \"Dunk of Death\" in the 2000 Olympics, iconic slams are etched in history."
+    },
+    {
+        "question": "What is the defensive counterpart to the dunk in basketball?",
+        "answer": "Conversely, the shot block is its defensive counterpart\u2014a dramatic, momentum-shifting act of rejection perfected by players like Bill Russell, Hakeem Olajuwon, and Dikembe Mutombo, whose finger-waggle became an iconic celebration."
+    },
+    {
+        "question": "Which players are noted for perfecting the shot block and what celebration is associated with one of them?",
+        "answer": "Conversely, the shot block is its defensive counterpart\u2014a dramatic, momentum-shifting act of rejection perfected by players like Bill Russell, Hakeem Olajuwon, and Dikembe Mutombo, whose finger-waggle became an iconic celebration."
+    },
+    {
+        "question": "What is Vince Carter's famous dunk called and when did it occur?",
+        "answer": "From Julius Erving's baseline swoops to Vince Carter's \"Dunk of Death\" in the 2000 Olympics, iconic slams are etched in history."
+    },
+    {
+        "question": "What is a game compared to in terms of strategy and adjustments?",
+        "answer": "A game is a chess match of adjustments."
+    },
+    {
+        "question": "Why do coaches call timeouts during a game?",
+        "answer": "Coaches call timeouts to diagram \"after-timeout\" (ATO) plays designed to get a clean look."
+    },
+    {
+        "question": "What do substitution patterns manage in a game?",
+        "answer": "Substitution patterns manage player fatigue and matchups."
+    },
+    {
+        "question": "What is the strategic fouling dilemma mentioned in the text?",
+        "answer": "The strategic fouling dilemma\u2014\"Hack-a-Shaq\" tactics used against poor free-throw shooters\u2014remains a controversial but calculable part of late-game strategy."
+    },
+    {
+        "question": "What is a small-ball \"death lineup\" and what does it feature?",
+        "answer": "Small-ball \"death lineups,\" featuring five perimeter players, sacrifice size for shooting and switchability on defense."
+    },
+    {
+        "question": "What drives the NBA as a financial powerhouse?",
+        "answer": "The NBA is a financial powerhouse, driven by massive television deals, international licensing, and digital streaming."
+    },
+    {
+        "question": "What governs team construction in the NBA?",
+        "answer": "The salary cap, a complex system of \"soft\" caps, exceptions, and luxury taxes, governs team construction."
+    },
+    {
+        "question": "What type of contracts reward homegrown superstars in the NBA?",
+        "answer": "Supermax contracts reward homegrown superstars, while mid-level exceptions allow teams to add role players."
+    },
+    {
+        "question": "What allows teams to add role players in the NBA?",
+        "answer": "Supermax contracts reward homegrown superstars, while mid-level exceptions allow teams to add role players."
+    },
+    {
+        "question": "What dictates all financial and operational rules in the NBA?",
+        "answer": "The collective bargaining agreement (CBA) between the league and the players' union dictates all financial and operational rules."
+    },
+    {
+        "question": "What is Wilt Chamberlain's record for points scored in a single game?",
+        "answer": "Wilt Chamberlain's 100-point game and 50.4-point season average seem untouchable."
+    },
+    {
+        "question": "What was Wilt Chamberlain's season average points?",
+        "answer": "Wilt Chamberlain's 100-point game and 50.4-point season average seem untouchable."
+    },
+    {
+        "question": "Whose season-long triple-double record stood for 55 years before being broken?",
+        "answer": "Similarly, Oscar Robertson's season-long triple-double (1961-62) stood for 55 years until Russell Westbrook broke the feat\u2014and then replicated it multiple times."
+    },
+    {
+        "question": "Who broke Oscar Robertson's season-long triple-double record and how many times did he replicate it?",
+        "answer": "Similarly, Oscar Robertson's season-long triple-double (1961-62) stood for 55 years until Russell Westbrook broke the feat\u2014and then replicated it multiple times."
+    },
+    {
+        "question": "What are John Stockton's career assists and steals records?",
+        "answer": "John Stockton's career assists and steals records (15,806 and 3,265) are often considered the most unbreakable due to his durability and the style of his era."
+    },
+    {
+        "question": "What are the origins of basketball described in the text?",
+        "answer": "From its simple peach-basket origins to a global, technologically-advanced spectacle, basketball continues to evolve, driven by extraordinary athletes, visionary minds, and an ever-passionate worldwide fanbase."
+    },
+    {
+        "question": "How is basketball described in terms of its current state?",
+        "answer": "From its simple peach-basket origins to a global, technologically-advanced spectacle, basketball continues to evolve, driven by extraordinary athletes, visionary minds, and an ever-passionate worldwide fanbase."
+    },
+    {
+        "question": "Who drives the evolution of basketball according to the text?",
+        "answer": "From its simple peach-basket origins to a global, technologically-advanced spectacle, basketball continues to evolve, driven by extraordinary athletes, visionary minds, and an ever-passionate worldwide fanbase."
+    },
+    {
+        "question": "What is the story of basketball characterized by?",
+        "answer": "Its story is one of constant innovation, where history is revered even as the game relentlessly marches forward."
+    },
+    {
+        "question": "How does the text describe the relationship between basketball's history and its future?",
+        "answer": "Its story is one of constant innovation, where history is revered even as the game relentlessly marches forward."
+    },
+    {
+        "question": "What does 'Basketball IQ' refer to?",
+        "answer": "\"Basketball IQ\" refers to a player's innate understanding of spacing, timing, and anticipation."
+    },
+    {
+        "question": "Which players are celebrated for their court vision and ability to read defenses before a play unfolds?",
+        "answer": "Legends like Larry Bird and Chris Paul are celebrated for their court vision and preternatural ability to read defenses before a play unfolds."
+    },
+    {
+        "question": "What defines legends like Michael Jordan and Damian Lillard?",
+        "answer": "The concept of \"clutch\" performance\u2014excelling under extreme pressure in the final minutes\u2014defines legends like Michael Jordan and Damian Lillard, whose iconic series-winning shots are known as \"Dame Time.\""
+    },
+    {
+        "question": "What is known as 'Dame Time'?",
+        "answer": "The concept of \"clutch\" performance\u2014excelling under extreme pressure in the final minutes\u2014defines legends like Michael Jordan and Damian Lillard, whose iconic series-winning shots are known as \"Dame Time.\""
+    },
+    {
+        "question": "What mental challenges require sports psychologists to be integral parts of modern team staffs?",
+        "answer": "Conversely, the mental toll of missed free throws in a playoff game or a shooting slump can be immense, requiring sports psychologists to be integral parts of modern team staffs."
+    },
+    {
+        "question": "What does the modern athlete's regimen combine year-round?",
+        "answer": "Year-round training combines sport-specific skill work with advanced strength and conditioning, plyometrics, and recovery protocols like cryotherapy and float tanks."
+    },
+    {
+        "question": "How is nutrition managed for modern athletes?",
+        "answer": "Nutrition is meticulously planned, with team chefs ensuring optimized fuel."
+    },
+    {
+        "question": "What has dramatically extended athletes' careers according to the text?",
+        "answer": "This scientific approach has dramatically extended careers; where once 30 was considered an athlete's twilight, stars like LeBron James and Stephen Curry maintain elite performance into their late 30s through investments of millions in their bodies, employing personal biomechanists and recovery specialists."
+    },
+    {
+        "question": "Which athletes are mentioned as examples of maintaining elite performance into their late 30s?",
+        "answer": "This scientific approach has dramatically extended careers; where once 30 was considered an athlete's twilight, stars like LeBron James and Stephen Curry maintain elite performance into their late 30s through investments of millions in their bodies, employing personal biomechanists and recovery specialists."
+    },
+    {
+        "question": "What recovery protocols are included in the modern athlete's training regimen?",
+        "answer": "Year-round training combines sport-specific skill work with advanced strength and conditioning, plyometrics, and recovery protocols like cryotherapy and float tanks."
+    },
+    {
+        "question": "What is described as a sensory spectacle in the text?",
+        "answer": "The live event is a sensory spectacle."
+    },
+    {
+        "question": "What elements are choreographed in the live event experience?",
+        "answer": "From the timed precision of pre-game light shows and player introductions to the organ music and timeout entertainment, every element is choreographed."
+    },
+    {
+        "question": "What is the Lakers' iconic fan tradition mentioned?",
+        "answer": "Distinct fan traditions have become iconic: the Lakers' \"Welcome to the Jungle\" introduction."
+    },
+    {
+        "question": "What is notable about the Celtics' arena according to the text?",
+        "answer": "Distinct fan traditions have become iconic: the Celtics' parquet floor."
+    },
+    {
+        "question": "What was the Golden State Warriors' fan atmosphere called during the 'Roaracle' era?",
+        "answer": "Distinct fan traditions have become iconic: the thunderous noise in the Golden State Warriors' \"Roaracle\" era."
+    },
+    {
+        "question": "What fan tradition is associated with playoff atmospheres?",
+        "answer": "Distinct fan traditions have become iconic: ... the collective waving of towels in playoff atmospheres."
+    },
+    {
+        "question": "What is the 'Sixth Man' referred to in the text?",
+        "answer": "The \"Sixth Man\"\u2014the home crowd\u2014is considered a genuine tactical advantage."
+    },
+    {
+        "question": "What role do rivalries play in the league?",
+        "answer": "Rivalries fuel the narrative engine of the league."
+    },
+    {
+        "question": "Which historic team rivalries are mentioned in the text?",
+        "answer": "Historic team rivalries like Celtics-Lakers and Bulls-Pistons were wars of style and philosophy."
+    },
+    {
+        "question": "Which individual rivalries are highlighted in the text?",
+        "answer": "Individual rivalries, such as Magic vs. Bird or more recently Curry vs. James, push competitors to new heights."
+    },
+    {
+        "question": "What is described as integral to the battles between rivals?",
+        "answer": "Integral to these battles is \"trash talk,\" the art of psychological warfare on the court."
+    },
+    {
+        "question": "Who are mentioned as masters of trash talk?",
+        "answer": "Masters like Gary Payton and Michael Jordan used verbal barbs to gain a mental edge, a tradition carried on by players like Draymond Green and Patrick Beverley."
+    },
+    {
+        "question": "What is said about stars and championship rosters?",
+        "answer": "While stars dominate headlines, championship rosters are built with precise role players."
+    },
+    {
+        "question": "What is a '3-and-D' wing in basketball?",
+        "answer": "The \"3-and-D\" wing\u2014a player who excels at perimeter shooting and lockdown defense\u2014is perhaps the most coveted archetype in the modern game."
+    },
+    {
+        "question": "Who are some other key specialists mentioned besides the '3-and-D' wing?",
+        "answer": "Other key specialists include the rim-running, shot-blocking center; the crafty pick-and-roll ball handler; and the energy-giving \"glue guy\" who excels in hustle stats like charges taken and offensive rebounds."
+    },
+    {
+        "question": "What qualities does the 'glue guy' have according to the text?",
+        "answer": "The energy-giving \"glue guy\" who excels in hustle stats like charges taken and offensive rebounds."
+    },
+    {
+        "question": "Who was known for radio calls in the evolution of game broadcasting?",
+        "answer": "From the radio calls of Chick Hearn to the national television boom led by Marv Albert, and now to the digital age of League Pass and social media highlights."
+    },
+    {
+        "question": "Who led the national television boom in game broadcasting?",
+        "answer": "From the radio calls of Chick Hearn to the national television boom led by Marv Albert, and now to the digital age of League Pass and social media highlights."
+    },
+    {
+        "question": "What digital platforms are mentioned as part of the current age of game consumption?",
+        "answer": "From the radio calls of Chick Hearn to the national television boom led by Marv Albert, and now to the digital age of League Pass and social media highlights."
+    },
+    {
+        "question": "Which former players provide technical breakdowns in game analysis?",
+        "answer": "Analysis has deepened with former players like JJ Redick and Richard Jefferson providing technical breakdowns, while shows like Inside the NBA with Ernie Johnson, Charles Barkley, Shaquille O'Neal, and Kenny Smith blend insight with unmatched entertainment, becoming a cultural institution in their own right."
+    },
+    {
+        "question": "Which show blends insight with unmatched entertainment and has become a cultural institution?",
+        "answer": "Analysis has deepened with former players like JJ Redick and Richard Jefferson providing technical breakdowns, while shows like Inside the NBA with Ernie Johnson, Charles Barkley, Shaquille O'Neal, and Kenny Smith blend insight with unmatched entertainment, becoming a cultural institution in their own right."
+    },
+    {
+        "question": "Who are the personalities featured on Inside the NBA?",
+        "answer": "Analysis has deepened with former players like JJ Redick and Richard Jefferson providing technical breakdowns, while shows like Inside the NBA with Ernie Johnson, Charles Barkley, Shaquille O'Neal, and Kenny Smith blend insight with unmatched entertainment, becoming a cultural institution in their own right."
+    },
+    {
+        "question": "Who have been at the forefront of social advocacy in the NBA?",
+        "answer": "The NBA and its players have been at the forefront of social advocacy."
+    },
+    {
+        "question": "Which players from earlier decades are mentioned as social advocates?",
+        "answer": "From Craig Hodges and Mahmoud Abdul-Rauf in earlier decades to the modern era where LeBron James's \"I PROMISE School\" and the league-wide embrace of the Black Lives Matter movement following the 2020 season bubble, players use their platforms prominently."
+    },
+    {
+        "question": "What is LeBron James's contribution to social advocacy mentioned in the text?",
+        "answer": "From Craig Hodges and Mahmoud Abdul-Rauf in earlier decades to the modern era where LeBron James's \"I PROMISE School\" and the league-wide embrace of the Black Lives Matter movement following the 2020 season bubble, players use their platforms prominently."
+    },
+    {
+        "question": "What movement did the NBA league-wide embrace following the 2020 season bubble?",
+        "answer": "From Craig Hodges and Mahmoud Abdul-Rauf in earlier decades to the modern era where LeBron James's \"I PROMISE School\" and the league-wide embrace of the Black Lives Matter movement following the 2020 season bubble, players use their platforms prominently."
+    },
+    {
+        "question": "What rule did the NBA drop in 2020 related to player activism?",
+        "answer": "The league's rule requiring players to stand for the national anthem was dropped in 2020, symbolizing a shift toward supporting player activism."
+    },
+    {
+        "question": "What led to the rise of 'load management' in the sport?",
+        "answer": "The physical grind of an 82-game season led to the rise of \"load management\"\u2014strategically resting healthy players to preserve them for the playoffs."
+    },
+    {
+        "question": "What is 'load management'?",
+        "answer": "\"load management\"\u2014strategically resting healthy players to preserve them for the playoffs."
+    },
+    {
+        "question": "How is the practice of load management perceived?",
+        "answer": "While data-driven, this practice is controversial, disappointing fans and leading the league to implement stricter rules on star player availability."
+    },
+    {
+        "question": "What has the league done in response to load management?",
+        "answer": "the league to implement stricter rules on star player availability."
+    },
+    {
+        "question": "What types of injuries are mentioned as significant in the sport?",
+        "answer": "Injuries, from career-altering ones like Derrick Rose's knee tears to chronic wear-and-tear, remain the sport's great unpredictable variable, shaping championships and legacies."
+    },
+    {
+        "question": "Which player's injury is specifically mentioned in the text?",
+        "answer": "career-altering ones like Derrick Rose's knee tears"
+    },
+    {
+        "question": "When does the Las Vegas Summer League take place?",
+        "answer": "The Las Vegas Summer League in July offers a first look at rookies and undrafted gems."
+    },
+    {
+        "question": "What does the Las Vegas Summer League offer a first look at?",
+        "answer": "The Las Vegas Summer League in July offers a first look at rookies and undrafted gems."
+    },
+    {
+        "question": "What is the NBA calendar like during the offseason?",
+        "answer": "The NBA calendar never truly stops."
+    },
+    {
+        "question": "What happens during the NBA offseason?",
+        "answer": "The offseason is a frenzy of free agency, where player movement can redraw the league's power map in hours, and blockbuster trades negotiated by powerful agents reshape franchises."
+    },
+    {
+        "question": "What is a key part of the annual drama during the NBA offseason?",
+        "answer": "This period of speculation, \"Woj bombs\" (breaking news from reporter Adrian Wojnarowski), and fan theorizing is a key part of the annual drama."
+    },
+    {
+        "question": "What is Madison Square Garden known as?",
+        "answer": "Madison Square Garden is \"The World's Most Famous Arena.\""
+    },
+    {
+        "question": "What was the Boston Garden notorious for?",
+        "answer": "The Boston Garden was notorious for its dead spots and raucous parquet."
+    },
+    {
+        "question": "What created an aura of invincibility for the Chicago Bulls in the 90s?",
+        "answer": "The Chicago Bulls' introduction in the darkened United Center to the sounds of Alan Parsons Project created an aura of invincibility in the 90s."
+    },
+    {
+        "question": "What do newer arenas seek to replicate?",
+        "answer": "Newer arenas are technological marvels, but they seek to replicate the intimate, intimidating atmospheres of the classic barns."
+    },
+    {
+        "question": "What do buildings have according to the text?",
+        "answer": "Buildings have their own mythology."
+    },
+    {
+        "question": "What is basketball ultimately obsessed with?",
+        "answer": "Ultimately, basketball is a sport obsessed with legacy."
+    },
+    {
+        "question": "What are the debates over the 'Greatest of All Time' (GOAT) in basketball about?",
+        "answer": "Debates over the \"Greatest of All Time\" (GOAT) are endless, weighing championships, MVPs, statistical dominance, and cultural impact."
+    },
+    {
+        "question": "Where does basketball venerate its history?",
+        "answer": "The sport venerates its history through the Naismith Memorial Basketball Hall of Fame in Springfield, Massachusetts, where players, coaches, referees, and contributors are immortalized."
+    },
+    {
+        "question": "Who are immortalized in the Naismith Memorial Basketball Hall of Fame?",
+        "answer": "The sport venerates its history through the Naismith Memorial Basketball Hall of Fame in Springfield, Massachusetts, where players, coaches, referees, and contributors are immortalized."
+    },
+    {
+        "question": "What constitutes a player's legacy in basketball?",
+        "answer": "A player's legacy is not just their peak, but the entirety of their journey\u2014their evolution, resilience, and the indelible moments they gifted to the sport."
+    },
+    {
+        "question": "How many players per team were featured in the very first basketball game in 1891?",
+        "answer": "While modern basketball is five-on-five, the very first game in 1891 featured nine players per team."
+    },
+    {
+        "question": "Who divided the class of 18 students in half to form the teams for the first basketball game?",
+        "answer": "Dr. James Naismith simply divided his class of 18 students in half."
+    },
+    {
+        "question": "What was the final score of the first official basketball game?",
+        "answer": "That first official game ended with a score of 1\u20130."
+    },
+    {
+        "question": "How many students were in Dr. James Naismith's class when he created the first basketball game?",
+        "answer": "Dr. James Naismith simply divided his class of 18 students in half."
+    },
+    {
+        "question": "What is the difference between modern basketball and the original game in terms of players per team?",
+        "answer": "While modern basketball is five-on-five, the very first game in 1891 featured nine players per team."
+    },
+    {
+        "question": "When did women begin playing basketball relative to its invention?",
+        "answer": "Women began playing basketball only 11 months after its invention."
+    },
+    {
+        "question": "What year is associated with the Bloomers Revolution?",
+        "answer": "In 1896, Clara Gregory Baer introduced \"bloomers\" at Sophie Newcomb College, replacing the floor-length dresses that caused players to trip."
+    },
+    {
+        "question": "Who introduced bloomers at Sophie Newcomb College?",
+        "answer": "In 1896, Clara Gregory Baer introduced \"bloomers\" at Sophie Newcomb College, replacing the floor-length dresses that caused players to trip."
+    },
+    {
+        "question": "What clothing did bloomers replace for women basketball players?",
+        "answer": "In 1896, Clara Gregory Baer introduced \"bloomers\" at Sophie Newcomb College, replacing the floor-length dresses that caused players to trip."
+    },
+    {
+        "question": "Why were floor-length dresses problematic for women basketball players?",
+        "answer": "In 1896, Clara Gregory Baer introduced \"bloomers\" at Sophie Newcomb College, replacing the floor-length dresses that caused players to trip."
+    },
+    {
+        "question": "Who recorded the only \"double-triple-double\" in NBA history?",
+        "answer": "Wilt Chamberlain recorded the only \"double-triple-double\" in NBA history in 1968, tallying 22 points, 25 rebounds, and 21 assists in a single game."
+    },
+    {
+        "question": "When did Wilt Chamberlain record the only \"double-triple-double\" in NBA history?",
+        "answer": "Wilt Chamberlain recorded the only \"double-triple-double\" in NBA history in 1968, tallying 22 points, 25 rebounds, and 21 assists in a single game."
+    },
+    {
+        "question": "What were Wilt Chamberlain's stats in the game where he recorded the only \"double-triple-double\"?",
+        "answer": "Wilt Chamberlain recorded the only \"double-triple-double\" in NBA history in 1968, tallying 22 points, 25 rebounds, and 21 assists in a single game."
+    },
+    {
+        "question": "What term was not popularized before Wilt Chamberlain's \"double-triple-double\"?",
+        "answer": "Before the term \"triple-double\" was even popularized, Wilt Chamberlain recorded the only \"double-triple-double\" in NBA history in 1968, tallying 22 points, 25 rebounds, and 21 assists in a single game."
+    },
+    {
+        "question": "What team roster featured the greatest height gap between teammates in history?",
+        "answer": "The 1987-88 Washington Bullets roster featured the greatest height gap between teammates in history: Manute Bol (7'7\") and Muggsy Bogues (5'3\")."
+    },
+    {
+        "question": "Which players represented the greatest height gap on the 1987-88 Washington Bullets roster?",
+        "answer": "The 1987-88 Washington Bullets roster featured the greatest height gap between teammates in history: Manute Bol (7'7\") and Muggsy Bogues (5'3\")."
+    },
+    {
+        "question": "What was Manute Bol's height on the 1987-88 Washington Bullets roster?",
+        "answer": "The 1987-88 Washington Bullets roster featured the greatest height gap between teammates in history: Manute Bol (7'7\") and Muggsy Bogues (5'3\")."
+    },
+    {
+        "question": "What was Muggsy Bogues' height on the 1987-88 Washington Bullets roster?",
+        "answer": "The 1987-88 Washington Bullets roster featured the greatest height gap between teammates in history: Manute Bol (7'7\") and Muggsy Bogues (5'3\")."
+    },
+    {
+        "question": "During which season did the Washington Bullets have the greatest height gap between teammates?",
+        "answer": "The 1987-88 Washington Bullets roster featured the greatest height gap between teammates in history: Manute Bol (7'7\") and Muggsy Bogues (5'3\")."
+    },
+    {
+        "question": "Who set a record for playing the most minutes in a game while recording zero points, rebounds, assists, steals, and blocks?",
+        "answer": "In 2011, Derek Fisher set a record for playing the most minutes (over 30) in a game while recording zero points, rebounds, assists, steals, and blocks."
+    },
+    {
+        "question": "In what year did Derek Fisher set the record for playing the most minutes in a game with zero stats?",
+        "answer": "In 2011, Derek Fisher set a record for playing the most minutes (over 30) in a game while recording zero points, rebounds, assists, steals, and blocks."
+    },
+    {
+        "question": "How many minutes did Derek Fisher play in the record-setting game?",
+        "answer": "In 2011, Derek Fisher set a record for playing the most minutes (over 30) in a game while recording zero points, rebounds, assists, steals, and blocks."
+    },
+    {
+        "question": "What statistics did Derek Fisher record zero in during the record-setting game?",
+        "answer": "In 2011, Derek Fisher set a record for playing the most minutes (over 30) in a game while recording zero points, rebounds, assists, steals, and blocks."
+    },
+    {
+        "question": "What is the nickname given to Derek Fisher's record-setting performance?",
+        "answer": "The 0-Point ironman: In 2011, Derek Fisher set a record for playing the most minutes (over 30) in a game while recording zero points, rebounds, assists, steals, and blocks."
+    },
+    {
+        "question": "Who set a seemingly unbreakable record in the 1983-84 season?",
+        "answer": "In the 1983-84 season, Darryl Dawkins set a seemingly unbreakable record by committing 386 personal fouls in a single season, averaging 4.7 fouls per game."
+    },
+    {
+        "question": "What record did Darryl Dawkins set in the 1983-84 season?",
+        "answer": "In the 1983-84 season, Darryl Dawkins set a seemingly unbreakable record by committing 386 personal fouls in a single season, averaging 4.7 fouls per game."
+    },
+    {
+        "question": "How many personal fouls did Darryl Dawkins commit in the 1983-84 season?",
+        "answer": "In the 1983-84 season, Darryl Dawkins set a seemingly unbreakable record by committing 386 personal fouls in a single season, averaging 4.7 fouls per game."
+    },
+    {
+        "question": "What was Darryl Dawkins' average number of fouls per game in the 1983-84 season?",
+        "answer": "In the 1983-84 season, Darryl Dawkins set a seemingly unbreakable record by committing 386 personal fouls in a single season, averaging 4.7 fouls per game."
+    },
+    {
+        "question": "What is the title or theme mentioned in the text?",
+        "answer": "Modern Firsts: On October 22, 2024, LeBron James and Bronny James became the first father-son duo to play together in an NBA game."
+    },
+    {
+        "question": "On what date did LeBron James and Bronny James play together in an NBA game?",
+        "answer": "On October 22, 2024, LeBron James and Bronny James became the first father-son duo to play together in an NBA game."
+    },
+    {
+        "question": "Who became the first father-son duo to play together in an NBA game?",
+        "answer": "On October 22, 2024, LeBron James and Bronny James became the first father-son duo to play together in an NBA game."
+    },
+    {
+        "question": "What milestone did LeBron James and Bronny James achieve in the NBA?",
+        "answer": "On October 22, 2024, LeBron James and Bronny James became the first father-son duo to play together in an NBA game."
+    },
+    {
+        "question": "What was the first professional women's basketball team?",
+        "answer": "The first professional women's team was the All American Red Heads, founded in 1936."
+    },
+    {
+        "question": "When was the All American Red Heads team founded?",
+        "answer": "The first professional women's team was the All American Red Heads, founded in 1936."
+    },
+    {
+        "question": "What was required of players regarding their hair on the All American Red Heads team?",
+        "answer": "They were required to either have natural red hair or dye it to match the team's identity."
+    },
+    {
+        "question": "What team existed long before the WNBA?",
+        "answer": "Long before the WNBA, the first professional women's team was the All American Red Heads, founded in 1936."
+    },
+    {
+        "question": "What was the team identity of the All American Red Heads based on?",
+        "answer": "They were required to either have natural red hair or dye it to match the team's identity."
+    }
+]
