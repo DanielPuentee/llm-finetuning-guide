@@ -1,0 +1,15 @@
+# Core ML & LLM Frameworks
+torch==2.8.0
+transformers==4.57.1.dev0
+peft==0.18.1
+trl==0.27.2
+datasets==4.1.1
+
+# Utility & Environment
+python-dotenv==1.1.0
+loguru==0.7.3
+
+# Training & Quantization Support
+accelerate==1.10.0
+bitsandbytes==0.49.1
+safetensors==0.6.2
