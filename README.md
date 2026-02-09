@@ -1,10 +1,10 @@
 # Fine-Tuning Guide
 
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
-[![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)](#)
-![PyTorch](https://img.shields.io/badge/PyTorch-2.8-EE4C2C?logo=pytorch&logoColor=white)
+[![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white)](#)
+![PyTorch](https://img.shields.io/badge/PyTorch-2.9-EE4C2C?logo=pytorch&logoColor=white)
 ![Transformers](https://img.shields.io/badge/Transformers-4.57-blue?logo=huggingface&logoColor=white)
-![TRL](https://img.shields.io/badge/TRL-0.27-ff9900)
+![TRL](https://img.shields.io/badge/TRL-ff9900)
 ![PEFT](https://img.shields.io/badge/PEFT-LoRA-6f42c1)
 ![GitHub last commit](https://img.shields.io/github/last-commit/DanielPuentee/llm-finetuning-guide)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
@@ -45,7 +45,7 @@ A hands-on guide for fine-tuning the models TinyLlama1.1B & Llama3.1-8B-Instruct
 - Run the setup cells to install Transformers, TRL, PEFT, bitsandbytes and Unsloth.
 - Load datasets directly from [data](data)
 
-### Option B — Local macOS (Apple Silicon)
+### Option B — Local macOS (Apple Silicon or CPU)
 
 1. Create a Python 3.10+ environment (uv, conda, or venv) and activate it
 2. Install dependencies from [mac/requirements.txt](mac/requirements.txt)
@@ -59,7 +59,7 @@ pip install -r mac/requirements.txt
 3. Launch [mac/fine-tuning.ipynb](mac/fine-tuning.ipynb) and run the cells sequentially
 4. Inspect training metrics under `mac/results/runs` with TensorBoard if desired
 
-### Option C — Local Windows/Linux (CUDA GPU)
+### Option C — Local Windows/Linux (CUDA GPU or CPU)
 
 1. Create and activate a Python 3.10+ virtual environment (Command Prompt shown below)
 
