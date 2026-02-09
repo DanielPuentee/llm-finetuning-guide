@@ -11,13 +11,13 @@
 
 > Author: [Daniel Puente Viejo](https://www.linkedin.com/in/danielpuenteviejo/)
 
-A hands-on guide for fine-tuning the models TinyLlama1.1B & Llama3.1-8B-Instruct with low-rank adapters (LoRA). The repository bundles Colab and macOS workflows, curated datasets, and fully reproducible experiments so you can adapt compact open models to your own domain with minimal compute.
+A hands-on guide for fine-tuning the models TinyLlama1.1B & Llama3.1-8B-Instruct with low-rank adapters (LoRA). The repository bundles Colab and macOS & Windows/Linux local workflows with curated datasets, and fully reproducible experiments so you can adapt compact open models to your own domain with minimal compute.
 
 ## 🎯 What You Get
 
-- Dual workflows covering [google_colab/fine-tuning.ipynb](google_colab/fine-tuning.ipynb) and [mac/fine-tuning.ipynb](mac/fine-tuning.ipynb)
+- Workflows covering [google_colab/fine-tuning.ipynb](google_colab/fine-tuning.ipynb), [mac/fine-tuning.ipynb](mac/fine-tuning.ipynb), and [windows-linux/fine-tuning.ipynb](windows-linux/fine-tuning.ipynb)
 - Ready-to-use basketball dataset in [data](data) plus raw corpus in [data/data.txt](data/data.txt)
-- 2 ways of training. One with Unsloth (google colab) and another with Hugging Face's SFTTrainer (macOS)
+- Three training setups: Unsloth on Colab, Hugging Face's SFTTrainer on macOS (Apple Silicon), and Windows/Linux (CUDA)
 - Logging-ready setup (Accelerate, bitsandbytes, safetensors) for efficient experimentation on consumer GPUs or Colab T4s
 
 ## 🧱 Project Structure
@@ -30,6 +30,9 @@ A hands-on guide for fine-tuning the models TinyLlama1.1B & Llama3.1-8B-Instruct
 │   └── imgs/                  # Notebook figures and configuration screenshots
 ├── mac/
 │   ├── fine-tuning.ipynb      # Local M-series workflow with Accelerate + LoRA
+│   └── requirements.txt       # Exact Python dependencies for local runs
+├── windows-linux/
+│   ├── fine-tuning.ipynb      # Local Windows/Linux workflow with PEFT + CUDA
 │   └── requirements.txt       # Exact Python dependencies for local runs
 └── README.md                  # You are here
 ~~~
@@ -53,11 +56,28 @@ source .venv/bin/activate
 pip install -r mac/requirements.txt
 ~~~
 
+3. Launch [mac/fine-tuning.ipynb](mac/fine-tuning.ipynb) and run the cells sequentially
+4. Inspect training metrics under `mac/results/runs` with TensorBoard if desired
+
+### Option C — Local Windows/Linux (CUDA GPU)
+
+1. Create and activate a Python 3.10+ virtual environment (Command Prompt shown below)
+
+~~~bat
+python -m venv .venv
+.venv\Scripts\activate
+pip install -r windows-linux/requirements.txt
+~~~
+
+2. Ensure CUDA drivers are installed and a compatible GPU is available
+3. Open [windows-linux/fine-tuning.ipynb](windows-linux/fine-tuning.ipynb) in VS Code or Jupyter
+4. Inspect training metrics under `windows-linux/results/runs` with TensorBoard if desired
+
 ## 📓 Notebooks at a Glance
 
 - [google_colab/fine-tuning.ipynb](google_colab/fine-tuning.ipynb): Designed for quick iteration on Colab with Unsloth, showcasing the full fine-tuning loop and evaluation on the basketball dataset
 - [mac/fine-tuning.ipynb](mac/fine-tuning.ipynb): Optimized for Apple Silicon with 4-bit loading, Accelerate configuration, and local inference tests
-- [full_training.ipynb](full_training.ipynb): Sandbox for extended experiments (curriculum changes, alternative prompts, or ablation studies)
+- [windows-linux/fine-tuning.ipynb](windows-linux/fine-tuning.ipynb): CUDA-ready notebook using PEFT + Accelerate for GPUs on Windows, Linux, or WSL
 
 ## 🧾 Data Expectations
 
@@ -73,13 +93,6 @@ pip install -r mac/requirements.txt
 - Raw context text for language-model warm-up resides in [data/data.txt](data/data.txt). Provide one or more paragraphs separated by blank lines.
 
 To swap in your own dataset, keep the JSON keys (`question`, `answer`) or adjust the preprocessing cell in the notebooks to match your schema.
-
-## 📦 Outputs & Artifacts
-
-- Training checkpoints: [mac/results/checkpoint-*](mac/results)
-- Trainer state, optimizer, and scheduler snapshots: [mac/results](mac/results)
-- Final LoRA adapter pack: [mac/tiny-llama-finetuned](mac/tiny-llama-finetuned)
-- Sample generations: captured inside the notebooks and exportable as markdown transcripts
 
 ## 🧠 Recommended Learning Path
 
