@@ -1,7 +1,7 @@
 # Fine-Tuning Guide
 
 <p align="center">
-  <img src="./imgs/cover_page.png" alt="Fine-Tuning Guide Cover" width="600">
+  <img src="./imgs/cover_page.png" alt="Fine-Tuning Guide Cover" width="650">
 </p>
 
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
