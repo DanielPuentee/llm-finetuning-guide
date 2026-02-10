@@ -7,7 +7,7 @@
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white)](#)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.9-EE4C2C?logo=pytorch&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-4.57-blue?logo=huggingface&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-blue?logo=huggingface&logoColor=white)
 ![TRL](https://img.shields.io/badge/TRL-ff9900)
 ![PEFT](https://img.shields.io/badge/PEFT-LoRA-6f42c1)
 ![GitHub last commit](https://img.shields.io/github/last-commit/DanielPuentee/llm-finetuning-guide)
