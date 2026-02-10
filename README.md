@@ -28,7 +28,6 @@ A hands-on guide for fine-tuning the models TinyLlama1.1B & Llama3.1-8B-Instruct
 
 ~~~text
 ├── data/                      # Supervised fine-tuning corpora (JSON + raw text)
-├── full_training.ipynb        # Scratchpad for extended experiments
 ├── google_colab/
 │   ├── fine-tuning.ipynb      # Colab workflow (setup + training + evaluation)
 │   └── imgs/                  # Notebook figures and configuration screenshots
