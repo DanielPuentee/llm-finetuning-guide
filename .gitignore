@@ -26,6 +26,7 @@ fine_tune_data_*
 logs/*
 *.log
 *.pptx
+
 # IDE
 .vscode/
 .idea/

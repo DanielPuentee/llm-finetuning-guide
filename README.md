@@ -1,5 +1,9 @@
 # Fine-Tuning Guide
 
+<p align="center">
+  <img src="./imgs/cover_page.png" alt="Fine-Tuning Guide Cover" width="600">
+</p>
+
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white)](#)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.9-EE4C2C?logo=pytorch&logoColor=white)
