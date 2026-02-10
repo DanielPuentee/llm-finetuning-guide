@@ -61,7 +61,6 @@ pip install -r mac/requirements.txt
 ~~~
 
 3. Launch [mac/fine-tuning.ipynb](mac/fine-tuning.ipynb) and run the cells sequentially
-4. Inspect training metrics under `mac/results/runs` with TensorBoard if desired
 
 ### Option C — Local Windows/Linux (CUDA GPU or CPU)
 
@@ -75,16 +74,18 @@ pip install -r windows-linux/requirements.txt
 
 2. Ensure CUDA drivers are installed and a compatible GPU is available
 3. Open [windows-linux/fine-tuning.ipynb](windows-linux/fine-tuning.ipynb) in VS Code or Jupyter
-4. Inspect training metrics under `windows-linux/results/runs` with TensorBoard if desired
 
 ## 📓 Notebooks at a Glance
 
 - [google_colab/fine-tuning.ipynb](google_colab/fine-tuning.ipynb): Designed for quick iteration on Colab with Unsloth, showcasing the full fine-tuning loop and evaluation on the basketball dataset
-- [mac/fine-tuning.ipynb](mac/fine-tuning.ipynb): Optimized for Apple Silicon with 4-bit loading, Accelerate configuration, and local inference tests
-- [windows-linux/fine-tuning.ipynb](windows-linux/fine-tuning.ipynb): CUDA-ready notebook using PEFT + Accelerate for GPUs on Windows, Linux, or WSL
+- [mac/fine-tuning.ipynb](mac/fine-tuning.ipynb): Optimized for Apple Silicon with 4-bit loading, Accelerate configuration, and local inference tests. You can use CPU only if you don't have an M-series chip, but performance will be slower.
+- [windows-linux/fine-tuning.ipynb](windows-linux/fine-tuning.ipynb): CUDA-ready notebook using PEFT + Accelerate for GPUs on Windows, Linux, or WSL. CPU fallback is available but not recommended for large models.
 
 ## 🧾 Data Expectations
 
+You can train the model with 2 different types of data:
+
+- Raw context text for language-model warm-up resides in [data/data.txt](data/data.txt). Provide one or more paragraphs separated by blank lines.
 - Supervised pairs live in [data/atomic_train.json](data/atomic_train.json). Each entry follows the schema below:
 
 ~~~json
@@ -93,10 +94,6 @@ pip install -r windows-linux/requirements.txt
 	"answer": "Basketball is a team sport played on a rectangular court."
 }
 ~~~
-
-- Raw context text for language-model warm-up resides in [data/data.txt](data/data.txt). Provide one or more paragraphs separated by blank lines.
-
-To swap in your own dataset, keep the JSON keys (`question`, `answer`) or adjust the preprocessing cell in the notebooks to match your schema.
 
 ## 🧠 Recommended Learning Path
 
